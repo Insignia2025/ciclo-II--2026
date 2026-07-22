@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Guillermo Alejandro Menjívar Artiga
+//Carnet: MA103625
+//Este ejercicio consiste en el cálculo del área de diferentes figuras haciendo uso de conocimientos básicos de POO
+
+using System;
 namespace Figuras_Geometricas
 {
     internal class Program
